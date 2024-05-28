@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a66a4fe51fca4c4fbf9da96ec4c60556/artifacts
+end_time: 1716848343277
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a66a4fe51fca4c4fbf9da96ec4c60556
+run_name: judicious-vole-104
+run_uuid: a66a4fe51fca4c4fbf9da96ec4c60556
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716848330559
+status: 3
+tags: []
+user_id: codespace

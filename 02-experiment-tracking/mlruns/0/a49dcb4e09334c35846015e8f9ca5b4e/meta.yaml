@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/a49dcb4e09334c35846015e8f9ca5b4e/artifacts
+end_time: 1716844815309
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: a49dcb4e09334c35846015e8f9ca5b4e
+run_name: loud-ray-116
+run_uuid: a49dcb4e09334c35846015e8f9ca5b4e
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716844815297
+status: 4
+tags: []
+user_id: codespace

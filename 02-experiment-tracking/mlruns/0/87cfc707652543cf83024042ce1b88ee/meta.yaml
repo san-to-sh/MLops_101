@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/87cfc707652543cf83024042ce1b88ee/artifacts
+end_time: 1716846294963
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 87cfc707652543cf83024042ce1b88ee
+run_name: bedecked-shrike-774
+run_uuid: 87cfc707652543cf83024042ce1b88ee
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716846283494
+status: 4
+tags: []
+user_id: codespace

@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/13988594af614083a72d447b8aecdd92/artifacts
+end_time: 1716846037894
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 13988594af614083a72d447b8aecdd92
+run_name: omniscient-stoat-603
+run_uuid: 13988594af614083a72d447b8aecdd92
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716846037884
+status: 4
+tags: []
+user_id: codespace

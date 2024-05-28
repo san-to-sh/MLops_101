@@ -1,0 +1,15 @@
+artifact_uri: mlflow-artifacts:/0/ebab8f91301c4c018bc3d72e2dc6dd95/artifacts
+end_time: 1716844739700
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: ebab8f91301c4c018bc3d72e2dc6dd95
+run_name: marvelous-lynx-422
+run_uuid: ebab8f91301c4c018bc3d72e2dc6dd95
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1716844739687
+status: 4
+tags: []
+user_id: codespace
